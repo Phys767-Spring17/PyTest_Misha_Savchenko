@@ -1,4 +1,4 @@
-from FizzBuzz import fizzbuzz
+from fizzbuzz.FizzBuzz import fizzbuzz
 import pytest
 
 def test_fizzbuzz_1():
